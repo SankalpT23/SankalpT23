@@ -64,9 +64,7 @@
 ## 📈 Contribution Graph (Activity Signal)
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SankalpT23&theme=tokyo-night&hide_border=true" width="100%"/>
-
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SankalpT23&theme=react-dark&hide_border=true&line=FF7F50&color=FFFFFF" alt="Activity Graph" />
 </div>
 
 ---
