@@ -26,7 +26,7 @@
 ---
 
 # 💫 About Me:
-🔭 I’m currently working on : RentFlow(a comprehensive Rental Lifecycle & Payment Management Platform) using Java 21, Spring Boot, and PostgreSQL.<br>
+🔭 I’m currently working on : Leanring and building my interest in backend engineering using Java 21, Spring Boot, MERN stack, and AI/ML technologies.<br>
 👯 I’m looking to collaborate on : Open-source projects focused on complex backend architectures, multi-tenancy, and new AI tech<br>
 🤝 I’m looking for help with mastering :  Advanced System Design and scaling enterprise-level, AI-integrated backend systems.<br>
 🌱 I’m currently learning :  Spring AI, PGVector, RAG patterns, and State Machine implementation. <br>
