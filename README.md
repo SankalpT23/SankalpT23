@@ -2,7 +2,7 @@
 <p align="center"><b>Java Backend Developer | Spring Boot Engineer | Problem Solver</b></p>
 
 ---
-### 💻 Tech Stack
+### 📜  Technical EcoSystem
 
 <div align="center">
 
@@ -15,13 +15,13 @@
 
 ---
 
-### About Me
+### 🧬 About Me
 
 Currently exploring the intersection of backend engineering and AI/ML - building APIs, experimenting with intelligent systems, and turning ideas into real-world applications. I enjoy solving challenging problems, participating in hackathons, and continuously learning new technologies. Fueled by curiosity, persistence, and the belief that every bug has a story to tell.
 
 ---
 
-### GitHub Activity
+### ⚙️ GitHub Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SankalpT23&theme=github_dark" width="32%"/>
@@ -31,7 +31,7 @@ Currently exploring the intersection of backend engineering and AI/ML - building
 
 ---
 
-### Connect
+### 🤝 Connect
 
 <p align="center">
 
