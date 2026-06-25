@@ -2,68 +2,41 @@
 <p align="center"><b>Java Backend Developer | Spring Boot Engineer | Problem Solver</b></p>
 
 ---
-### ⚙️ Technical EcoSystem
+### 💻 Tech Stack
 
 <div align="center">
 
-### 🔤 Languages
-
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts&perline=6" />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mongodb,postgres,redis,kafka,docker,kubernetes,aws,gcp,git,github,postman,maven,gradle,nodejs,express,react,html,css,js,ts,python,tensorflow,pytorch,sklearn,opencv,c,cpp,firebase,vercel,netlify&perline=9" />
+
 </a>
-<br/><br/>
 
-### 🌐 Frontend
-
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,react,vite&perline=4" />
-</a>
-<br/><br/>
-
-### ⚡ Backend
-
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=spring,maven,hibernate,nodejs,express&perline=5" />
-</a>
-<br/><br/>
-
-### 🗄️ Databases & Messaging
-
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,firebase,kafka&perline=5" />
-</a>
-<br/><br/>
-
-### ☁️ Cloud & DevOps
-
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,vercel,netlify,render&perline=7" />
-</a>
-<br/><br/>
-
-### 🛠️ Tools & Workflow
-
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,idea,vscode,gradle&perline=7" />
-</a>
 </div>
 
 ---
 
 ### About Me
 
-I'm a Computer Science student passionate about backend engineering and scalable software systems. I enjoy building REST APIs, designing secure applications, and exploring distributed systems with Java and Spring Boot.
+Hi, I'm Sankalp 👋
 
-Currently expanding my expertise in Kafka, Redis, Docker, and system design while solving Data Structures & Algorithms problems to strengthen problem-solving skills. I'm always looking to contribute to impactful projects and continuously improve as a software engineer.
+I'm a Computer Science student passionate about building software that makes an impact. Most of my work revolves around Java backend development with Spring Boot, where I enjoy designing APIs, working with databases, and solving challenging engineering problems.
+
+Alongside backend development, I actively explore AI/ML and data science to build smarter applications. Whether it's participating in hackathons, learning new technologies, or tackling complex DSA problems, I'm always looking for opportunities to grow as an engineer.
+
+I believe great software comes from curiosity, consistency, and a willingness to keep learning-and that's the mindset I bring to every project I build.
 
 ---
 
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SankalpT23&theme=github_dark" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SankalpT23&theme=github_dark" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SankalpT23&theme=github_dark" width="32%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SankalpT23&theme=github_dark" width="300"/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SankalpT23&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github" width="390"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SankalpT23&theme=github_dark" width="300"/>
+
 </p>
 
 ---
