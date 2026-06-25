@@ -1,100 +1,87 @@
-<!-- 🔥 Animated Header -->
+<h1 align="center">Sankalp Tiwari</h1>
+<p align="center"><b>Java Backend Developer | Spring Boot Engineer | Problem Solver</b></p>
+
+---
+### ⚙️ Technical EcoSystem
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,20,18&height=250&section=header&text=Sankalp%20Tiwari&fontSize=50&fontAlignY=38&fontColor=ffffff&desc=CSE(AI%2FML)%20%7C%20Java%20Backend%20%7C%20Builder&descAlignY=60&descSize=18&descColor=FF7F50&animation=fadeIn" alt="Header Wave" />
+### 🔤 Languages
 
-<br>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts&perline=6" />
+</a>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF7F50&center=true&vCenter=true&width=500&lines=Backend+Engineer...;Spring+Boot+Developer...;Building+Scalable+Systems...;System+Design+Enthusiast..." alt="Typing Animation" />
+### 🌐 Frontend
 
-<br><br>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,react,vite&perline=4" />
+</a>
+<br/><br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Backend_Engineer-2D333B?style=for-the-badge" alt="Backend Engineer" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Distributed_Systems-FF7F50?style=for-the-badge" alt="Distributed Systems" />
+### ⚡ Backend
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=spring,maven,hibernate,nodejs,express&perline=5" />
+</a>
+<br/><br/>
+
+### 🗄️ Databases & Messaging
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,firebase,kafka&perline=5" />
+</a>
+<br/><br/>
+
+### ☁️ Cloud & DevOps
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,vercel,netlify,render&perline=7" />
+</a>
+<br/><br/>
+
+### 🛠️ Tools & Workflow
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,idea,vscode,gradle&perline=7" />
+</a>
+</div>
+
+---
+
+### About Me
+
+I'm a Computer Science student passionate about backend engineering and scalable software systems. I enjoy building REST APIs, designing secure applications, and exploring distributed systems with Java and Spring Boot.
+
+Currently expanding my expertise in Kafka, Redis, Docker, and system design while solving Data Structures & Algorithms problems to strengthen problem-solving skills. I'm always looking to contribute to impactful projects and continuously improve as a software engineer.
+
+---
+
+### GitHub Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SankalpT23&theme=github_dark" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SankalpT23&theme=github_dark" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SankalpT23&theme=github_dark" width="32%"/>
 </p>
 
-<p>
-  <i>Building <b>Scalable & Reliable Systems</b> • Focusing on <b>System Design</b> & <b>Event-Driven Architecture</b></i>
+---
+
+### Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/sankalptiwari2306">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sankalptiwari94255@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/mehoonsankalp">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
+
 </p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="400" alt="divider" />
-
-</div>
-
----
-
-# 💫 About Me:
-🔭 I’m currently working on : Leanring and building my interest in backend engineering using Java 21, Spring Boot, MERN stack, and AI/ML technologies.<br>
-👯 I’m looking to collaborate on : Open-source projects focused on complex backend architectures, multi-tenancy, and new AI tech<br>
-🤝 I’m looking for help with mastering :  Advanced System Design and scaling enterprise-level, AI-integrated backend systems.<br>
-🌱 I’m currently learning :  Spring AI, PGVector, RAG patterns, and State Machine implementation. <br>
-💬 Ask me about :  Java, Spring Boot, Event Sourcing, Idempotency keys, and building fintech-style audit trails.<br>
-⚡ Fun fact : I treat my databases like immutable ledgers—no updates, only inserts!
-
----
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sankalp.tiwari.771)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehoonsankalp)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sankalptiwari2306)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sankalptiwari94255)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@SankalpTiwari_23)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sankalptiwari94255@gmail.com)
-
----
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-
----
-
-## 📊 GitHub Analytics Dashboard
-
-<div align="center">
-
-
-<img width="49%" src="https://streak-stats.demolab.com?user=SankalpT23&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Graph (Activity Signal)
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SankalpT23&theme=react-dark&hide_border=true&line=FF7F50&color=FFFFFF" alt="Activity Graph" />
-</div>
-
----
-
-## ✨ Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-## 👀 Profile Insights
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=SankalpT23&label=Profile%20Views&color=6366F1&style=for-the-badge" />
-
-</div>
-
----
-
-
-
-<!-- 🔥 Footer -->
-<div align="center">
-  <br>
-  <i>Thanks for dropping by! Feel free to reach out if you want to collaborate or just say hi. ☕</i>
-  <br><br>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,20,18&height=120&section=footer&text=Let's%20Build%20Something%20Great!&fontSize=22&fontAlignY=72&fontColor=ffffff&animation=fadeIn" alt="Footer Wave" />
-</div>
