@@ -17,26 +17,16 @@
 
 ### About Me
 
-Hi, I'm Sankalp 👋
-
-I'm a Computer Science student passionate about building software that makes an impact. Most of my work revolves around Java backend development with Spring Boot, where I enjoy designing APIs, working with databases, and solving challenging engineering problems.
-
-Alongside backend development, I actively explore AI/ML and data science to build smarter applications. Whether it's participating in hackathons, learning new technologies, or tackling complex DSA problems, I'm always looking for opportunities to grow as an engineer.
-
-I believe great software comes from curiosity, consistency, and a willingness to keep learning-and that's the mindset I bring to every project I build.
+Currently exploring the intersection of backend engineering and AI/ML - building APIs, experimenting with intelligent systems, and turning ideas into real-world applications. I enjoy solving challenging problems, participating in hackathons, and continuously learning new technologies. Fueled by curiosity, persistence, and the belief that every bug has a story to tell.
 
 ---
 
 ### GitHub Activity
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SankalpT23&theme=github_dark" width="300"/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SankalpT23&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github" width="390"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SankalpT23&theme=github_dark" width="300"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SankalpT23&theme=github_dark" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SankalpT23&theme=github_dark" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SankalpT23&theme=github_dark" width="32%"/>
 </p>
 
 ---
